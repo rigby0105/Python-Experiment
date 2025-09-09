@@ -12,5 +12,5 @@ My data science competencies include:
 - Python Programming
 - Statistical Analysis
 
-In order to test the include of a photograph, I've included a photo of my dog, Bowie, sitting in my backyard. Yes, he is named after David Bowie.
+In order to test the inclusion of a photograph, I've included a photo of my dog, Bowie, sitting in my backyard. Yes, he is named after David Bowie.
 ![My dog Bowie sitting in the yard](image0.jpeg)
